@@ -1,0 +1,4 @@
+When video files are large because the number of frames is large (temporal resolution is high and/or recording duration is long), it is often helpful -- for the sake of speed and/or if memory is limited -- to downsample the video's temporal resolution. This is particularly true if the frame rate is large (>30 Hz) compared to the expected calcium dynamics. The temporal downsampling factor is the number by which the effective frame rate is reduced.
+
+Default: 1 (no temporal downsampling)
+ 

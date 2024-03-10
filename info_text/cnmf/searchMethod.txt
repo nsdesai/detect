@@ -1,0 +1,3 @@
+One sets search method based on the likely shape of the structures one hopes to detect. The vast majority of users of this software are like to be interested in cell bodies (soma). They should choose "ellipse" as the CNMF search method. The algorithm also offers "dilate" as an option if one is interested in non-somatic structures (e.g., dendrites). But for most users, ellipse is the correct choice.
+
+Default: ellipse

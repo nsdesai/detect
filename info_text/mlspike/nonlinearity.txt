@@ -1,0 +1,2 @@
+The paper by Deneux et al., Nat. Comm (2016) contains estimates on other parameters for the fluorophores GCaMP6s, GCaMP6f, and OGB. Choosing one of these options from the dropdown menu means those parameters will be used.
+  

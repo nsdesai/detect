@@ -1,0 +1,4 @@
+When video files are large because the number of pixels is large (spatial resolution is high), it is often helpful -- for the sake of speed and/or if memory is limited -- to downsample the video's spatial resolution. This is particularly true if the pixel size is small compared to the typical somatic size. The factor specified here is the mulitplicative factor by which pixels are binned in both the horizontal and vertical dimensions. 
+
+Default: 1 (no spatial downsampling)
+ 

@@ -1,0 +1,5 @@
+Estimate the maximum number of neurons in the field of view. It is better to overestimate than to underestimate.
+
+Default: 15
+
+

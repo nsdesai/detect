@@ -1,0 +1,3 @@
+The parameter noise sigma is an estimate of the noise level (std. dev.) of the background signal.
+
+Default: 0.01

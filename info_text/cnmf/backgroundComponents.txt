@@ -1,0 +1,3 @@
+The variant of CNMF we use here is CNMF-e, which expands the original algorithm to account for the background fluorescence often encountered in 1-p imaging. (It is largely absent in 2-p imaging given the higher spatial resolution.) For brain slices and microendoscoping imaging, selecting the number of background components to be 1 is usually the right choice.
+
+Default: 1

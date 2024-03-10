@@ -1,0 +1,3 @@
+The average amplitude (percent change in Delta F/F) due to the firing of a single spike.
+
+Default: 3

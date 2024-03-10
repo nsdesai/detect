@@ -1,0 +1,3 @@
+The CNMF algorithm deconvolves the fluorescence signal into an estimate of firing rates. The present software does not use the CNMF estimate, preferring the maximum likelihood method MLSpike. Still, the CNMF estimate is included in the output of the CNMF detection process for those who wish to see it. The fastest deconvolution method it offers is Constrained FOOPSI, and users should choose it.
+
+Default: Constrained FOOPSI

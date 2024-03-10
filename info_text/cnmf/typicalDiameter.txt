@@ -1,0 +1,6 @@
+Estimate the approximate width of the neurons (soma size) in the field of view (in pixels). The x- and y-axes of the displayed graph are in pixels. This estimation need not be exact. If soma sizes vary a lot, simply pick a cell body near the middle of the distribution.
+
+Default: 30
+
+
+

@@ -1,0 +1,3 @@
+Ellipse expansion factor determines, as the CNMF algorithm searches for the optimal factorization, how much it varies the expected size. So the correct choice depends on much somatic sizes vary. We have found that a choice of 3 is often optimal.
+
+Default: 3

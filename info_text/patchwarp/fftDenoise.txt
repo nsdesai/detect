@@ -1,0 +1,3 @@
+If this parameter is checked true, then strong periodic patterns (e.g., ripple patterns of PMT noise) will be removed from template images by Fourier transform. In general this is not necessary, but can be useful if periodic rippling is evident in images.
+
+Default: false

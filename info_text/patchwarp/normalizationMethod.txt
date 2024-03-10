@@ -1,0 +1,5 @@
+Normalization of images is performed to make full use of dynamic range and increase contrast. The PatchWarp algorithm offers two choices: rank and local. In rank normalization, pixels are replaced by their fractional rank (rank divided by total number of pixels) with the image. In local normalization, the intensity of each pixel is normalized by dividing it by the intensity of neighboring pixels. (The parameter normalization radius determines the size of the neighborhood used.)
+
+In general, unless images are expansive or have obvious non-uniformities, rank normalization is preferred. But if motion correction appears unsatisfactory, the first thing to do is to try local normalization.
+
+Default: rank 

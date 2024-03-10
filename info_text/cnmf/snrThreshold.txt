@@ -1,0 +1,3 @@
+The CNMF algorithm needs some sense of how noisy the fluorescence traces are. The parameter SNR threshold specifies roughly what signal-to-noise threshold should be considered meaningful. Choices between 2 and 5 are reasonable, with 3 being the default.
+
+Default: 3

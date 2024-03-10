@@ -1,0 +1,3 @@
+The parameter affine radius is the radius of the circular filter used for local intensity normalization before application of the grandient-based algorithm. The radius is in pixels and should reflect the observed non-uniformity.
+
+Default: 32

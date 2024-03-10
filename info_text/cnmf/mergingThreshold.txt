@@ -1,0 +1,3 @@
+Imagine if two active components in an image are very close to each other. In order to determine whether they are separate neurons or the same neuron, the CNMF algorithm uses the correlation coefficient between their fluorescence traces. The parameter "merge threshold" is the threshold separating the two possiblities -- components with coefficients above the threshold are merged into one, those with coefficients below the threshold are determined to be separate.
+
+Default: 0.90

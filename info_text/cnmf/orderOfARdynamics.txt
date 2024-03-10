@@ -1,0 +1,5 @@
+The CNMF algorithm uses an autoregressive (AR) model to estimate the rise and decay of the underlying calcium detector kinetics. In usual linear regression, one predicts the value of an output (dependent) variable Y based on the values of some independent variable X. But in an AR model, the dependent and independent variables, X and Y, are one and the same; the newest value of Y is estimated based on its own past estimated value(s). The order of an AR model indicates how far back into the past one looks: a first-order model uses values one time step back, a second-order model also uses values two time steps back, and so on. 
+
+The CNFM algorithm offers three choices for order of AR dynamics: 0, 1, and 2. An order of 0 means the algorithm will not attempt to deconvolve the fluorescence signal into an underlying calcium signal. An order of 1 is the default and, unless the sampling rate is very high (>30 frames per second), should be used. Slower sampling rates will cause the AR  model to look too far back into the past.
+
+Default: 1 (usually the best choice)

@@ -1,0 +1,3 @@
+This parameter is the window size (number of frames) for smoothing downsampled images before estimation of affine transformation matrices. For good signals, this should just be 1. Increase this number if signal-to-noise is low.
+
+Default: 1

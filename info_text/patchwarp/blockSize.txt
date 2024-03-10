@@ -1,0 +1,3 @@
+Row and column numbers for splitting an image's field of view into into blocks for affine transformation. Each image is split into [warp_blocksize]*[warp_blocksize] subfields.For moderate distortion, one should use a small number (<= 4). For severe distortion, a large number may be used. Note that processing time goes like n^2 and so larger block sizes will increasing time by a lot.
+
+Default: 2

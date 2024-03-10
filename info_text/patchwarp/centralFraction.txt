@@ -1,0 +1,3 @@
+The parameter central fraction limits how much the edges of the template image affect image registration. For example, when the central fraction is set to 0.8, then 10% of pixels (those closest to the edges) are ignored. This parameter does not affect results very much. The default choice of 0.8 is fine.
+
+Default: 0.8

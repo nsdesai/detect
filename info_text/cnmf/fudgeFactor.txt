@@ -1,0 +1,4 @@
+The CNFM algorithm includes a (somewhat oddly-named) parameter called "fudge factor" that, in estimating time constants, minimizes the effects of outliers (bias correction). This is useful when data are unusually noisy. The fudge factor should be set between to a value between 0.95 and 1.00, where smaller numbers are for lots of noise and large numbers are for no noise.
+
+Default: 1
+ 

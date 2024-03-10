@@ -1,0 +1,3 @@
+The parameters baseline min and max estimate the noise level of the background signal. Baseline min should be approximately 0, and baseline max should be approximately the same as noise sigma (around 0.01).
+
+Default: 0

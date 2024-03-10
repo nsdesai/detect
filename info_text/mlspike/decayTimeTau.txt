@@ -1,0 +1,3 @@
+The paramter decay time tau is the characteristic decay time of calcium transients elicited by action potentials. Its units are seconds.
+
+Default: 1

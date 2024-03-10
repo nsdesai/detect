@@ -1,0 +1,5 @@
+The CNMF algorithm allows you to specify how long it searches ("temporal iterations") for the best temporal matrix in its factorization of images into spatial and temporal matrices. In general, more is better. In practice, ~5 iterations are fine. More than that slows things down a lot without improving the end result much.
+
+Default: 5
+
+

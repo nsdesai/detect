@@ -1,0 +1,3 @@
+The parameter threshold is used for selecting the frames used to calculate template images (representative images against which other images are compared). The Pearson correlation coefficient is calculated between the mean of all frames. Frames with coefficients lower than the specified threshold will be ignored.
+
+Default: 0.2
