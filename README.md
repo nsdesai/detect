@@ -9,9 +9,7 @@ The User Manual included in this download explains what to do next. Briefly: (MA
 
 GETTING STARTED
 
-Watch the supplementary videos here:
-
-https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnih-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fdesainis_nih_gov%2FEuKiVyz5UBFMjg8CoVzx94ABetN5-nSipYkW2NRpmuuRjw%3Fe%3DVEelZf&data=05%7C02%7Cniraj.desai3%40nih.gov%7C0d5097423c0f46f58b5908dc49267e4b%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C638465676890386203%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3MrAywGqzQw%2B9m50b1SS0LKGu4VB1KOwMDiVaVjtqA0%3D&reserved=0
+Watch the supplementary videos here:   [Supplementary Videos](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnih-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fdesainis_nih_gov%2FEuKiVyz5UBFMjg8CoVzx94ABetN5-nSipYkW2NRpmuuRjw%3Fe%3DVEelZf&data=05%7C02%7Cniraj.desai3%40nih.gov%7C0d5097423c0f46f58b5908dc49267e4b%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C638465676890386203%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3MrAywGqzQw%2B9m50b1SS0LKGu4VB1KOwMDiVaVjtqA0%3D&reserved=0)
 
 
 LICENSE
