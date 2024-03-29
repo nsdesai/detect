@@ -1,6 +1,11 @@
 # detect_for_review
 detect_for_review
 
+INSTALLATION
+
+Download this entire repository to your hard disk. 
+
+
 
 LICENSE
 
