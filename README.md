@@ -3,9 +3,9 @@ detect_for_review
 
 INSTALLATION
 
-Download this entire repository to your hard disk by selecting "Download ZIP" from the green Clone button at top right. Unzip the downloaded file and place the contents somewhere on the C drive (for example, create a folder "detect_software" within your Documents folder).
+MATLAB users should download this entire repository to their hard disk by selecting "Download ZIP" from the green Clone button at top right. Unzip the downloaded file and place the contents somewhere on the C drive (for example, create a folder "detect_software" within your Documents folder). The User Manual included in this download explains what to do next. Briefly: add the folder to the MATLAB path and open the GUI by typing "detect" at the MATLAB command line. 
 
-The User Manual included in this download explains what to do next. Briefly: (MATLAB users) add the folder to the MATLAB path and open the GUI by typing "detect" at the MATLAB command line, or (non-MATLAB users) double click the file MyAppInstaller_web and, after the installation is complete, select the "detect" app from the list of Windows applications.
+Non-MATLAB users (i.e., users with a Windows computer but without a license for MATLAB) should download INSTALLATION.pdf. It contains a OneDrive link to the installation files for the standalone version. They should ownload all the files at the link, save them to a single folder on their computer, and then double click the file MyAppInstaller_web (which may be found inside the subfolder _for_redistribution_. After the installation is complete, select the "detect" app from the list of Windows applications.
 
 GETTING STARTED
 
