@@ -244,6 +244,9 @@ for nol=levels:-1:1
     
     %% check which parts of the image is even relevant 
     highGrad = find(vx > mean(vx(:)) | vy > mean(vy(:)));
+    if isempty(highGrad)
+        highGrad = 1;
+    end
     
     
     %% ECC, Forwards Additive Algorithm -------------------------------
