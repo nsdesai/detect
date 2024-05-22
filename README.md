@@ -28,6 +28,8 @@ These steps will install not only code specific to this project but code written
 
       Brick (toolbox of general functions to speed up MATLAB) from Thomas Deneux: https://github.com/MLspike/brick 
 
+      Earth Mover's Distance (an implementation of the EMD statistic) from Ulaş Yılmaz: https://github.com/ulasyilmaz/earth-movers-distance
+
 (2) Other users
 
 Windows users who do not have a MATLAB license should go to this [OneDrive site](https://nih-my.sharepoint.com/personal/desainis_nih_gov/_layouts/15/onedrive.aspx?csf=1&web=1&e=RocgXU&cid=fc25aa49%2D4ffe%2D4c05%2Db546%2Dac9d2643509f&id=%2Fpersonal%2Fdesainis%5Fnih%5Fgov%2FDocuments%2Fstandalone%5Fdetect%5Finstall&FolderCTID=0x0120000C6A93BD902E054A98B4C93689428248&view=0). The site includes three subfolders: for_redistribution, for_redistribution_files_only, and for_testing. Download these three folders and place them in a folder on your computer (it doesn't matter where or what the folder is named).
