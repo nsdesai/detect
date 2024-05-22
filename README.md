@@ -1,7 +1,7 @@
 # detect_for_review
 Last updated 05/22/24
 
-INSTALLATION
+##INSTALLATION
 
 The detect software, though written in MATLAB, can be used by researchers whether or not they have access to MATLAB itself. Users who do have MATLAB installed on their computers ("MATLAB users") should follow the first set of directions to install the software. Users who do not have MATLAB but do have a Windows computer ("Other users") should follow the second set.
 
@@ -35,17 +35,17 @@ Look inside the subfolder for_redistribution for an executable called MyAppInsta
 
 Once the installation is completed, you should see an app called detect in your computer's list of applications. You should be able to run it like any other Windows app. (Note: Depending upon your computer's security settings, the first time you run detect, you might get a message asking whether you want Windows Firewall to accept actions detect wants to make. Select ACCEPT.) 
 
-GETTING STARTED
+##GETTING STARTED
 
 Watch the supplementary videos here:   [Supplementary Videos](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnih-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fdesainis_nih_gov%2FEuKiVyz5UBFMjg8CoVzx94ABetN5-nSipYkW2NRpmuuRjw%3Fe%3DVEelZf&data=05%7C02%7Cniraj.desai3%40nih.gov%7C0d5097423c0f46f58b5908dc49267e4b%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C638465676890386203%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3MrAywGqzQw%2B9m50b1SS0LKGu4VB1KOwMDiVaVjtqA0%3D&reserved=0)
 
 
-LICENSE
+##LICENSE
 
 This software was written for the Section on Circuits, Synapses, and Molecular Signaling (CSMS) at the National Institute of Neurological Disorders and Stroke (NINDS). Permission is granted, subject to terms of the GNU Public License 3.0, for others to download, use, modify, and distribute the software, as long as it remains open source and the same permissions apply. 
 
 
-DISCLAIMER
+##DISCLAIMER
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
@@ -56,6 +56,6 @@ OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
 THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-CONTACT
+##CONTACT
 
 Niraj S. Desai (NSD, niraj.desai3@nih.gov)
