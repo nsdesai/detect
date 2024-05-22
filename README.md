@@ -1,4 +1,4 @@
-# detect_for_review
+# detect
 Last updated 05/22/24
 
 ##
