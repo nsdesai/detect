@@ -5,15 +5,17 @@ INSTALLATION
 
 The detect software, though written in MATLAB, can be used by researchers whether or not they have access to MATLAB itself. Users who do have MATLAB installed on their computers ("MATLAB users") should follow the first set of directions to get the detect software. Users who do not have MATLAB but do have a Windows computer ("Other users") should follow the second set.
 
-(1) MATLAB USERS
+(1) MATLAB users
 
-Download all files and folders from this Github site. Press the green button at top right ("Code'), select "Download ZIP", and then extract the contents (both files and folders) of the downloaded ZIP file into a single folder located somewhere on your hard drive. For example, the folder could be located within the MATLAB folder in Documents, but this is not necessary.
+Download all files and folders from this page. Press the green button at top right ("Code'), select "Download ZIP", and then extract the contents of the downloaded ZIP file into a single folder located somewhere on your hard drive. For example, the folder could be located within the MATLAB folder in Documents, but this is not necessary.
 
 Add the folder to the MATLAB path. On my computer, the folder is located at this address: 'C:\Users\niraj\Documents\MATLAB\detect_software'. To add it to the path, I would enter these lines at the MATLAB command line:
 
+...
 folderName = 'C:\Users\niraj\Documents\MATLAB\detect_software';
 addpath folderName
 savepath
+...
 
 You can do the same, remembering of course to change folderName to the location of your folder.
 
