@@ -3,10 +3,36 @@ detect_for_review 04/15/24
 
 INSTALLATION
 
-MATLAB users should download this entire repository to their hard disk by selecting "Download ZIP" from the green Clone button at top right. Unzip the downloaded file and place the contents somewhere on the C drive (for example, create a folder "detect_software" within your Documents folder). The User Manual included in this download explains what to do next. Briefly: add the folder to the MATLAB path and open the GUI by typing "detect" at the MATLAB command line. 
+The detect software, though written in MATLAB, can be used by researchers whether or not they have access to MATLAB itself. Users who do have MATLAB installed on their computers ("MATLAB users") should follow the first set of directions to get the detect software. Users whos do not have MATLAB but do have a Windows computer ("Other users") should follow the second set.
 
-Non-MATLAB users (i.e., users with a Windows computer but without a license for MATLAB) should download INSTALLATION.pdf. It contains a OneDrive link to the installation files for the standalone version. They should download all the files at the link, save them to a single folder on their computer, and then double click the file MyAppInstaller_web (which may be found inside the subfolder _for_redistribution_. After the installation is complete, select the "detect" app from the list of Windows applications.
+(1) MATLAB USERS
 
+Download all files and folders from this Github site.
+
+This download includes not only code specific to this project but code written by others which the project exploits. This code includes:
+
+CaImAn (CNMF algorithm) from the Flatiron Institute: https://github.com/flatironinstitute/CaImAn.
+
+PatchWarp (motion correction and image registration) from Hattori and Komiyama: https://github.com/ryhattori/PatchWarp/tree/main 
+
+MLSpike (spike estimation) from Deneux and colleagues: https://github.com/MLspike/spikes 
+
+Brick (toolbox of general functions to speed up MATLAB) from Thomas Deneux: https://github.com/MLspike/brick 
+
+Put all download files and folders into a single folder somewhere on your hard drive. For example, the folder could be located within the MATLAB folder in Documents, but this is not necessary.
+Add the folder to the MATLAB path. On my computer, the folder is located at this address: 'C:\Users\niraj\Documents\MATLAB\detect_software'. To add it to the path, I would enter these lines at the MATLAB command line:
+
+folderName = 'C:\Users\niraj\Documents\MATLAB\detect_software';
+addpath folderName
+savepath
+
+You can do the same, remembering of course to change folderName to the location of your folder.
+
+(2) Other users
+
+Windows users who do not have a MATLAB license should download the file INSTALLATION.pdf from the Github site. It contains a link to the installation folder for the standalone version. (A couple files are too big for distribution directly through Github, which has a 25 MB limit, and so they are stored elsewhere.) The installation folder includes three subfolders: for_redistribution, for_redistribution_files_only, and for_testing. Download these three folders and place them in a folder on your computer (it doesn't matter where or what the folder is named).
+Look inside the subfolder for_redistribution for an executable called MyAppInstaller_web.exe. Running this program will install both the project's software and MATLAB Runtime. The second of these will be downloaded from the web, meaning that your computer will need an Internet connection. The process will take ~10 minutes. 
+Once the installation is completed, you should see an app called detect in your computer's list of applications. You should be able to run it like any other Windows app. (Note: Depending upon your computer's security settings, the first time you run detect, you might get a message asking whether you want Windows Firewall to accept actions detect wants to make. Select ACCEPT.) 
 GETTING STARTED
 
 Watch the supplementary videos here:   [Supplementary Videos](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnih-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fdesainis_nih_gov%2FEuKiVyz5UBFMjg8CoVzx94ABetN5-nSipYkW2NRpmuuRjw%3Fe%3DVEelZf&data=05%7C02%7Cniraj.desai3%40nih.gov%7C0d5097423c0f46f58b5908dc49267e4b%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C638465676890386203%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=3MrAywGqzQw%2B9m50b1SS0LKGu4VB1KOwMDiVaVjtqA0%3D&reserved=0)
