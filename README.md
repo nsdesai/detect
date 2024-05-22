@@ -11,11 +11,14 @@ Download all files and folders from this page. Press the green button at top rig
 
 Add the folder to the MATLAB path. On my computer, the folder is located at this address: 'C:\Users\niraj\Documents\MATLAB\detect_software'. To add it to the path, I would enter these lines at the MATLAB command line:
 
-...
+
 folderName = 'C:\Users\niraj\Documents\MATLAB\detect_software';
+
 addpath folderName
+
 savepath
-...
+
+
 
 You can do the same, remembering of course to change folderName to the location of your folder.
 
