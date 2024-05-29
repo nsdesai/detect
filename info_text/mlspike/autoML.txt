@@ -1,0 +1,1 @@
+Automated parameter estimation works well only with high-quality data. Ideally, single-spike transients are clearly identifiable by eye. If the fluorescence traces are noisy, do not use automated estimation -- choose parameters manually instead.
