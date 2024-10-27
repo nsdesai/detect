@@ -13,7 +13,7 @@ function applywarp_Npatches_singletiffstack(fns_tiff_name, fns_summary_name, sou
 
     temp_summary.warp_cell = warp_cell;
     %apply warping to each frame
-    parfor i3 = 1:size(stack, 3)
+    parfor i3 = 1:size(stack, 3)-100 % added 05/24/24 -- avoid errors at file's end
         out_temp = cell(block_size, block_size);
         for i1 = 1:block_size
             for i2 = 1:block_size
