@@ -42,10 +42,10 @@ x1(~validInds) = [];
 y1(~validInds) = [];
 
 %% calc near by values
-f00 = V(sub2ind(szV,y0,x0));
-f01 = V(sub2ind(szV,y1,x0));
-f10 = V(sub2ind(szV,y0,x1));
-f11 = V(sub2ind(szV,y1,x1));
+f00 = V(sub2ind_pw(szV,y0,x0));
+f01 = V(sub2ind_pw(szV,y1,x0));
+f10 = V(sub2ind_pw(szV,y0,x1));
+f11 = V(sub2ind_pw(szV,y1,x1));
 
 %% calc 
 valueOfValidPts = f00.*(1-mod(x,1)).*(1-y)+f10.*x.*(1-y)+f01.*(1-x).*y+f11.*x.*y;
