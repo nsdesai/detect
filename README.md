@@ -36,7 +36,7 @@ Windows users who do not have a MATLAB license should go to this [OneDrive site]
 
 Look inside the subfolder for_redistribution for an executable called MyAppInstaller_web.exe. Running this program will install both the project's software and MATLAB Runtime. The second of these will be downloaded from the web, meaning that your computer will need an Internet connection. The process will take ~10 minutes.
 
-Once the installation is completed, you should see an app called detect in your computer's list of applications. You should be able to run it like any other Windows app. (Note: Depending upon your computer's security settings, the first time you run detect, you might get a message asking whether you want Windows Firewall to accept actions detect wants to make. Select ACCEPT.) 
+Once the installation is completed, you should see an app called detect (or perhaps NINDSLCSMS) in your computer's list of applications. You should be able to run it like any other Windows app. (Note: Depending upon your computer's security settings, the first time you run detect, you might get a message asking whether you want Windows Firewall to accept actions detect wants to make. Select ACCEPT.) 
 
 ##
 GETTING STARTED
