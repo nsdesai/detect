@@ -32,7 +32,7 @@ These steps will install not only code specific to this project but code written
 
 (2) Other users
 
-Windows users who do not have a MATLAB license should go to this [OneDrive site](https://1drv.ms/f/s!AiPVSLtiwPKMhJhOWBmECMGZNqGBcA?e=nmFyGt). The site includes three subfolders: for_redistribution, for_redistribution_files_only, and for_testing. Download these three folders and place them in a folder on your computer (it doesn't matter where or what the folder is named).
+Windows users who do not have a MATLAB license should go to this [OneDrive site](https://1drv.ms/f/s!AiPVSLtiwPKMhJhOWBmECMGZNqGBcA?e=va0PE0). The site includes three subfolders: for_redistribution, for_redistribution_files_only, and for_testing. Download these three folders and place them in a folder on your computer (it doesn't matter where or what the folder is named).
 
 Look inside the subfolder for_redistribution for an executable called MyAppInstaller_web.exe. Running this program will install both the project's software and MATLAB Runtime. The second of these will be downloaded from the web, meaning that your computer will need an Internet connection. The process will take ~10 minutes.
 
