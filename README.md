@@ -1,5 +1,13 @@
 # detect
-Last updated 02/24/25
+Last updated 04/13/25
+
+# UPDATES
+
+Multiple modifications as described in the updated user manual.
+
+      New Basic Analysis tab that includes detection and characterization of calcium transients.
+
+      Manual addition of cells using the Refine Results tab.
 
 ##
 INSTALLATION
