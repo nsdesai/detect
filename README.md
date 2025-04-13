@@ -3,7 +3,7 @@ Last updated 04/13/25
 
 # UPDATES
 
-Multiple modifications as described in the updated user manual.
+Multiple modifications as described in the updated user manual (04/13/25).
 
       New Basic Analysis tab that includes detection and characterization of calcium transients.
 
